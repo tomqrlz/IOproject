@@ -8,3 +8,11 @@
 2. \path\To\Virtualenv\Scripts\activate.bat
 3. pip install -r requirements.txt
 4. python GUI.py
+
+**INSTRUCTIONS**
+1. Load - choose file to analyze
+2. Analyze
+3. Save - choose destination folder for analyzed video
+4. Save Logs - choose destination folder for analyzed vide logs
+5. Play (optional)
+6. Read Logs (optional)
