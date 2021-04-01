@@ -16,3 +16,5 @@
 4. Save Logs - choose destination folder for analyzed video logs
 5. (optional) Play - open analyzed video in external video player 
 6. (optional) Read Logs - open analyzed video logs in notepad 
+
+Created by TM, JW, KH
